@@ -7,7 +7,7 @@ Code licensed under New BSD License.
 
 ## Installing via Bower
 ```
-bower install ng-ckeditor
+bower install https://github.com/cantecim/ng-ckeditor.git#master
 ```
 
 ##Usage
